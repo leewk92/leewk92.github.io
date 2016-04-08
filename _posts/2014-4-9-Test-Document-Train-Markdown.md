@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Document, Train Markdown  
+title: Test Document Train Markdown  
 ---
 
 ###### Six
