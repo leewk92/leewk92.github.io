@@ -17,9 +17,9 @@ Zero
 *incline1*
 _incline2_
 >quotation
-[inline:link to naver](www.nvaer.com)
+[inline:link to naver](http://www.naver.com)
 [reference][ref]
-[ref]: www.naver.com
+[ref]: http://www.naver.com
 ---
 ***
 ___
